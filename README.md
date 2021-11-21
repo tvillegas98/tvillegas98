@@ -1,4 +1,4 @@
-### Hi! I'm Tomás, a Computer Sci.
+### Hi! I'm Tomás, a Computer Science Student.
 
 ### Social Media:  
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
