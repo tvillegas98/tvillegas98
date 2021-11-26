@@ -1,3 +1,4 @@
+<body style = "background-color: #FFFFFF">
 ### Hi! I'm Tomás, a Computer Science Student.
 
 ### Social Media:  
@@ -20,3 +21,4 @@
 -->
 
 [linkedin]: https://www.linkedin.com/in/tvillegas98/
+</body>
