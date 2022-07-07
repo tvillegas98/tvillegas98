@@ -6,7 +6,7 @@
 
 - Computer Science Student at Facultad de Ingenieria de la Universidad de Buenos Aires (FIUBA)
 - Elixir Developer at LambdaClass
-- VideoGames lover, currently playing Yakuza saga.
+- VideoGames lover, currently playing Subnautica below zero.
 - Manga reader.
 
 ### Current Stack
