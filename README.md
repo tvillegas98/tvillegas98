@@ -37,5 +37,7 @@
 
 
 <div align="center">
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tvillegas98.visitor-badge&left_color=rose&right_color=violet) 
+  
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tvillegas98.visitor-badge&left_color=rose&right_color=violet)
+  
 </div>
