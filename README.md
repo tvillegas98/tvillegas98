@@ -1,3 +1,5 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=D718F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+tvillegas98;But%2C+call+me+Tommy.)](https://git.io/typing-svg)
 
 ### About me :green_book:
@@ -10,8 +12,6 @@
 - Manga reader.
 
 ### Current Stack
-
-<div align="center">
   
 ---
 <!--
