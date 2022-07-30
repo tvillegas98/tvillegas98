@@ -11,6 +11,8 @@
 
 ### Current Stack
 
+<div align="center">
+  
 ---
 <!--
   ![](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
@@ -33,8 +35,6 @@
 
 ---
 
-
-<div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=tvillegas98)
   
