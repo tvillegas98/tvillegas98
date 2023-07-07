@@ -8,7 +8,7 @@
 
 - Computer Science Student at Facultad de Ingenieria de la Universidad de Buenos Aires (FIUBA)
 - Elixir Developer at LambdaClass
-- VideoGames lover, currently playing how to survive college
+- VideoGames lover, currently developing one at @lambdaclass 😄
 - Manga reader.
 
 ### Current Stack
