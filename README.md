@@ -37,7 +37,5 @@
 
   
 ![](https://github-readme-stats.vercel.app/api?username=tvillegas98)
-  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tvillegas98.visitor-badge&left_color=rose&right_color=violet)
-  
+    
 </div>
