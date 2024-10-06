@@ -7,9 +7,7 @@
 ---
 
 - Computer Science Student at Facultad de Ingenieria de la Universidad de Buenos Aires (FIUBA)
-- Elixir Developer at LambdaClass
-- VideoGames lover, currently developing one at @lambdaclass 😄
-- Manga reader.
+- Software Developer at Lambdaclass
 
 ### Current Stack
   
