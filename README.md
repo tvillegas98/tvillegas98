@@ -7,7 +7,7 @@
 ---
 
 - Computer Science Student at Facultad de Ingenieria de la Universidad de Buenos Aires (FIUBA)
-- Software Developer at Lambdaclass
+- Software Developer at Leapsight
 
 ### Current Stack
   
